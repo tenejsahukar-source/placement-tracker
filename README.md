@@ -462,11 +462,15 @@ docker-compose up -d
 
 ---
 
-## 👥 **Meet the Team**
+👨‍💻 Tenej Sahukar
+
+📧 Email: tenejsahukar@gmail.com
+
+🚀 B.Tech CSE | Full Stack Developer | AI/ML Enthusiast
 
 <div align="center">
 
-### **🧑‍💼 Core Team**
+
 
 </div>
 
