@@ -242,7 +242,7 @@ graph TD
 
 ```bash
 # Clone and setup everything at once
-git clone https://github.com/Mohitjadaun2026/PMS-CGC-U.git && cd PMS-CGC-U && npm run setup
+git clone https://github.com/tenejsahukar-source/placement-tracker && cd PLACEMENT TRACKER && npm run setup
 ```
 
 ### **📚 Step-by-Step Installation**
@@ -252,8 +252,8 @@ git clone https://github.com/Mohitjadaun2026/PMS-CGC-U.git && cd PMS-CGC-U && np
 
 #### **1️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/Mohitjadaun2026/PMS-CGC-U.git
-cd PMS-CGC-U
+git clone https://github.com/tenejsahukar-source/placement-tracker.git
+cd PLACEMENT TRACKER
 ```
 
 #### **2️⃣ Setup Environment Variables**
