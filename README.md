@@ -5,8 +5,8 @@
 ![PMS Logo](https://img.shields.io/badge/PMS-CGC--U-blue?style=for-the-badge&logo=graduation-cap&logoColor=white)
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](https://choosealicense.com/licenses/mit/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](CONTRIBUTING.md)
-![GitHub Stars](https://img.shields.io/github/stars/Mohitjadaun2026/PMS-CGC-U?style=for-the-badge&color=yellow)
-![GitHub Forks](https://img.shields.io/github/forks/Mohitjadaun2026/PMS-CGC-U?style=for-the-badge&color=orange)
+![GitHub Stars](https://img.shields.io/github/stars/TenejSahukar2026/PLACEMENT-TRACKER?style=for-the-badge&color=yellow)
+![GitHub Forks](https://img.shields.io/github/forks/TenejSahukar2026/PLACEMENT-TRACKER?style=for-the-badge&color=orange)
 
 ### 🚀 **The Future of Campus Placement Management**
 
@@ -377,7 +377,7 @@ docker-compose up -d
 
 <div align="center">
 
-### **🌟 Why Contribute to PMS-CGC-U?**
+### **🌟 Why Contribute to PLACEMENT TRACKER?**
 
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="500">
 
@@ -396,10 +396,10 @@ docker-compose up -d
 |:---:|:---:|:---:|:---:|:---:|
 | 🎨 **Frontend Development** | React, Tailwind CSS, JavaScript | 🟢 Beginner-Friendly | 🔥 High | [View Issues](https://github.com/Mohitjadaun2026/PMS-CGC-U/labels/frontend) |
 | ⚡ **Backend Development** | Node.js, Express, MongoDB | 🟡 Intermediate | 🔥 High | [View Issues](https://github.com/Mohitjadaun2026/PMS-CGC-U/labels/backend) |
-| 🔐 **Security & Auth** | JWT, OAuth, Security Best Practices | 🔴 Advanced | ⚡ Critical | [View Issues](https://github.com/Mohitjadaun2026/PMS-CGC-U/labels/security) |
-| 📧 **Integration** | APIs, Email Services, Webhooks | 🟡 Intermediate | ⚡ Medium | [View Issues](https://github.com/Mohitjadaun2026/PMS-CGC-U/labels/integration) |
-| 🧪 **Testing** | Jest, Cypress, Testing Library | 🟢 Beginner-Friendly | 🎯 Medium | [View Issues](https://github.com/Mohitjadaun2026/PMS-CGC-U/labels/testing) |
-| 🎨 **UI/UX Design** | Figma, Design Systems, Accessibility | 🟢 Beginner-Friendly | 🔥 High | [View Issues](https://github.com/Mohitjadaun2026/PMS-CGC-U/labels/design) |
+| 🔐 **Security & Auth** | JWT, OAuth, Security Best Practices | 🔴 Advanced | ⚡ Critical | [View Issues](https://github.com/tenejsahukar-source/placement-tracker/labels/security) |
+| 📧 **Integration** | APIs, Email Services, Webhooks | 🟡 Intermediate | ⚡ Medium | [View Issues](https://github.com/tenejsahukar-source/placement-tracker/labels/integration) |
+| 🧪 **Testing** | Jest, Cypress, Testing Library | 🟢 Beginner-Friendly | 🎯 Medium | [View Issues](https://github.com/tenejsahukar-source/placement-tracker/labels/testing) |
+| 🎨 **UI/UX Design** | Figma, Design Systems, Accessibility | 🟢 Beginner-Friendly | 🔥 High | [View Issues](https://github.com/tenejsahukar-source/placement-tracker/labels/design) |
 
 </div>
 
@@ -455,7 +455,7 @@ docker-compose up -d
 
 1. **🍴 Fork the repository** and star it
 2. **📖 Read our [Contributing Guidelines](CONTRIBUTING.md)**
-3. **👀 Browse [Good First Issues](https://github.com/Mohitjadaun2026/PMS-CGC-U/labels/good%20first%20issue)**
+3. **👀 Browse [Good First Issues](https://github.com/tenejsahukar-source/placement-tracker/good%20first%20issue)**
 4. **💬 Join our [Discord Community](#-connect-with-us)**
 5. **🛠️ Set up your development environment**
 6. **🎯 Pick an issue and start coding!**
@@ -490,16 +490,16 @@ docker-compose up -d
 
 ### **📈 Development Metrics**
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Mohitjadaun2026/PMS-CGC-U?style=for-the-badge&color=green)
-![GitHub last commit](https://img.shields.io/github/last-commit/Mohitjadaun2026/PMS-CGC-U?style=for-the-badge&color=blue)
-![GitHub issues](https://img.shields.io/github/issues/Mohitjadaun2026/PMS-CGC-U?style=for-the-badge&color=orange)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/Mohitjadaun2026/PMS-CGC-U?style=for-the-badge&color=purple)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/TenejSahukar2026/PLACEMENT-TRACKER?style=for-the-badge&color=green)
+![GitHub last commit](https://img.shields.io/github/last-commit/TenejSahukar2026/PLACEMENT-TRACKER?style=for-the-badge&color=blue)
+![GitHub issues](https://img.shields.io/github/issues/TenejSahukar2026/PLACEMENT-TRACKER?style=for-the-badge&color=orange)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/TenejSahukar2026/PLACEMENT-TRACKER?style=for-the-badge&color=purple)
 
 ### **🏆 Achievement Badges**
 
-![GitHub Sponsors](https://img.shields.io/github/sponsors/Mohitjadaun2026?style=for-the-badge&color=red)
-![GitHub watchers](https://img.shields.io/github/watchers/Mohitjadaun2026/PMS-CGC-U?style=for-the-badge&color=yellow)
-![GitHub language count](https://img.shields.io/github/languages/count/Mohitjadaun2026/PMS-CGC-U?style=for-the-badge&color=green)
+![GitHub Sponsors](https://img.shields.io/github/sponsors/TENEJ-SAHUKAR2026?style=for-the-badge&color=red)
+![GitHub watchers](https://img.shields.io/github/watchers/TenejSahukar2026/PLACEMENT-TRACKER?style=for-the-badge&color=yellow)
+![GitHub language count](https://img.shields.io/github/languages/count/TenejSahukar2026/PLACEMENT-TRACKER?style=for-the-badge&color=green)
 
 </div>
 
