@@ -472,20 +472,9 @@ docker-compose up -d
 
 <div align="center">
 
-| **Role** | **Name** | **GitHub** | **Expertise** |
-|:---:|:---:|:---:|:---:|
-| 🎯 **Project Lead** | Mohit Jadaun | [@Mohitjadaun2026](https://github.com/Mohitjadaun2026) | Full-Stack Development |
-| 🧑‍🏫 **Mentor** | Poushmita | [@Poushmita](https://github.com/Poushmita) | Frontend & UX |
-
-</div>
 
 <div align="center">
 
-### **🌟 Top Contributors**
-
-[![Contributors](https://contrib.rocks/image?repo=Mohitjadaun2026/PMS-CGC-U)](https://github.com/Mohitjadaun2026/PMS-CGC-U/graphs/contributors)
-
-*Want to see your face here? Start contributing today!*
 
 </div>
 
@@ -522,11 +511,6 @@ docker-compose up -d
 [![Slack](https://img.shields.io/badge/Slack-Workspace-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://your-slack.slack.com)
 [![Telegram](https://img.shields.io/badge/Telegram-Group-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your-group)
 
-### **🤝 Professional Networks**
-
-[![Email](https://img.shields.io/badge/Email-jadaunmohit0%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jadaunmohit0@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohit%20Jadaun-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mohit-jadaun/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1da1f2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
 
 ### **🔗 Project Links**
 
@@ -618,10 +602,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ### **🚀 Ready to Transform Campus Placements?**
 
 **Join thousands of developers, students, and educators who are building the future of placement management!**
-
-[![Get Started Now](https://img.shields.io/badge/🚀%20Get%20Started-Now-success?style=for-the-badge&logo=rocket&logoColor=white)](https://github.com/Mohitjadaun2026/PMS-CGC-U/fork)
-[![Join Community](https://img.shields.io/badge/💬%20Join%20Community-Discord-7289da?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your-server)
-[![Contribute](https://img.shields.io/badge/🤝%20Start%20Contributing-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohitjadaun2026/PMS-CGC-U/issues)
 
 ---
 
